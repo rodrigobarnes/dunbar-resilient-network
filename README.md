@@ -2,7 +2,7 @@
 
 ## Introduction
 
-What if a small coastal town in Scotland had a resilient network of sensors and repeaters, at once linked to the internet of things (IOT) and allowing communication if disconnected? This project aims to explore the social and economic potential of a reslient network through a series of experiments while providin training and employment opportunities in the area.
+What if a small coastal town in Scotland had a resilient network of sensors and repeaters, at once linked to the internet of things (IOT) and allowing communication if disconnected from major grid networks? This project aims to explore the social and economic potential of a reslient network through a series of experiments while providin training and employment opportunities in the area.
 
 ## Context
 
